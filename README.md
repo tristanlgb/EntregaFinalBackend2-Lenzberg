@@ -1,4 +1,12 @@
-Script de inicio = npm run dev
+.ENV
+
+MONGO_URI=mongodb+srv://tristanlgb:hola123@backendapp.fwel2.mongodb.net/test?retryWrites=true&w=majority
+
+SECRET_JWT=secreto123
+PORT=8080
+EMAIL_USER=tristanlgb@gmail.com
+EMAIL_PASS=your-email-password
+
 
 
 ---Posman---
