@@ -1,6 +1,3 @@
-.ENV
-
-MONGO_URI=mongodb+srv://tristanlgb:hola123@backendapp.fwel2.mongodb.net/test?retryWrites=true&w=majority
 
 
 SECRET_JWT=secreto123
